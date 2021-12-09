@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792451290374",
+    "project_id": "pftpproject",
+    "storage_bucket": "pftpproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792451290374:android:dcd900612e104fe1017a87",
+        "android_client_info": {
+          "package_name": "com.appsol360.pftpproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792451290374-kcsg0464r40hcgonuu294qulekjqm4rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNN7KF__eB0M3IkoztE5RUmnjEV-y4WPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792451290374-kcsg0464r40hcgonuu294qulekjqm4rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
